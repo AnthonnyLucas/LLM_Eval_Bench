@@ -1,0 +1,150 @@
+[
+  {
+    "id": "c01",
+    "pergunta": "Qual a temperatura ideal do ninho de cria?",
+    "contexto": "As abelhas mantem a temperatura do ninho de cria entre 32 e 36 graus Celsius. A umidade relativa interna ideal fica entre 50% e 70%. Umidade acima de 70% favorece fungos e atrasa a maturacao do mel. Em dias frios as abelhas se agrupam e vibram os musculos para gerar calor.",
+    "resposta_esperada": "entre 32 e 36 graus Celsius",
+    "palavras_chave": [
+      "32",
+      "36"
+    ]
+  },
+  {
+    "id": "c02",
+    "pergunta": "Qual a umidade relativa interna ideal?",
+    "contexto": "As abelhas mantem a temperatura do ninho de cria entre 32 e 36 graus Celsius. A umidade relativa interna ideal fica entre 50% e 70%. Umidade acima de 70% favorece fungos e atrasa a maturacao do mel. Em dias frios as abelhas se agrupam e vibram os musculos para gerar calor.",
+    "resposta_esperada": "entre 50% e 70%",
+    "palavras_chave": [
+      "50",
+      "70"
+    ]
+  },
+  {
+    "id": "c03",
+    "pergunta": "O que a umidade acima de 70% favorece?",
+    "contexto": "As abelhas mantem a temperatura do ninho de cria entre 32 e 36 graus Celsius. A umidade relativa interna ideal fica entre 50% e 70%. Umidade acima de 70% favorece fungos e atrasa a maturacao do mel. Em dias frios as abelhas se agrupam e vibram os musculos para gerar calor.",
+    "resposta_esperada": "favorece fungos e atrasa a maturacao do mel",
+    "palavras_chave": [
+      "fungos"
+    ]
+  },
+  {
+    "id": "c04",
+    "pergunta": "O que as abelhas fazem em dias frios?",
+    "contexto": "As abelhas mantem a temperatura do ninho de cria entre 32 e 36 graus Celsius. A umidade relativa interna ideal fica entre 50% e 70%. Umidade acima de 70% favorece fungos e atrasa a maturacao do mel. Em dias frios as abelhas se agrupam e vibram os musculos para gerar calor.",
+    "resposta_esperada": "se agrupam e vibram os musculos para gerar calor",
+    "palavras_chave": [
+      "agrupam",
+      "calor"
+    ]
+  },
+  {
+    "id": "c05",
+    "pergunta": "Quantos ovos a rainha pode por por dia?",
+    "contexto": "A rainha e a unica femea fertil da colmeia e pode por de mil a dois mil ovos por dia. A maioria dos apicultores substitui a rainha a cada um ou dois anos. Sem rainha, a populacao cai progressivamente e a producao de mel despenca. A enxameacao reduz muito a producao.",
+    "resposta_esperada": "de mil a dois mil ovos por dia",
+    "palavras_chave": [
+      "mil"
+    ]
+  },
+  {
+    "id": "c06",
+    "pergunta": "Com que frequencia se substitui a rainha?",
+    "contexto": "A rainha e a unica femea fertil da colmeia e pode por de mil a dois mil ovos por dia. A maioria dos apicultores substitui a rainha a cada um ou dois anos. Sem rainha, a populacao cai progressivamente e a producao de mel despenca. A enxameacao reduz muito a producao.",
+    "resposta_esperada": "a cada um ou dois anos",
+    "palavras_chave": [
+      "dois anos"
+    ]
+  },
+  {
+    "id": "c07",
+    "pergunta": "O que acontece sem rainha?",
+    "contexto": "A rainha e a unica femea fertil da colmeia e pode por de mil a dois mil ovos por dia. A maioria dos apicultores substitui a rainha a cada um ou dois anos. Sem rainha, a populacao cai progressivamente e a producao de mel despenca. A enxameacao reduz muito a producao.",
+    "resposta_esperada": "a populacao cai progressivamente e a producao de mel despenca",
+    "palavras_chave": [
+      "populacao",
+      "cai"
+    ]
+  },
+  {
+    "id": "c08",
+    "pergunta": "Qual a proporcao do xarope de alimentacao suplementar?",
+    "contexto": "Em escassez de florada, a alimentacao suplementar usa xarope de acucar na proporcao de uma parte de acucar para uma de agua. Antes do inverno usa-se o xarope mais concentrado, de duas partes de acucar para uma de agua. A alimentacao artificial deve parar antes da florada para nao contaminar o mel da colheita.",
+    "resposta_esperada": "uma parte de acucar para uma de agua",
+    "palavras_chave": [
+      "uma parte",
+      "agua"
+    ]
+  },
+  {
+    "id": "c09",
+    "pergunta": "Qual o xarope usado antes do inverno?",
+    "contexto": "Em escassez de florada, a alimentacao suplementar usa xarope de acucar na proporcao de uma parte de acucar para uma de agua. Antes do inverno usa-se o xarope mais concentrado, de duas partes de acucar para uma de agua. A alimentacao artificial deve parar antes da florada para nao contaminar o mel da colheita.",
+    "resposta_esperada": "duas partes de acucar para uma de agua",
+    "palavras_chave": [
+      "duas partes"
+    ]
+  },
+  {
+    "id": "c10",
+    "pergunta": "Quando parar a alimentacao artificial?",
+    "contexto": "Em escassez de florada, a alimentacao suplementar usa xarope de acucar na proporcao de uma parte de acucar para uma de agua. Antes do inverno usa-se o xarope mais concentrado, de duas partes de acucar para uma de agua. A alimentacao artificial deve parar antes da florada para nao contaminar o mel da colheita.",
+    "resposta_esperada": "antes da florada para nao contaminar o mel da colheita",
+    "palavras_chave": [
+      "florada"
+    ]
+  },
+  {
+    "id": "c11",
+    "pergunta": "O que o acaro Varroa faz?",
+    "contexto": "O acaro Varroa parasita as abelhas adultas e a cria, enfraquecendo a colmeia e transmitindo virus. A traca da cera ataca favos principalmente em colmeias fracas. Manter colmeias fortes e a melhor prevencao. A pilhagem acontece quando abelhas de outras colmeias roubam o mel de uma colmeia fraca.",
+    "resposta_esperada": "parasita as abelhas adultas e a cria, enfraquecendo a colmeia e transmitindo virus",
+    "palavras_chave": [
+      "parasita",
+      "virus"
+    ]
+  },
+  {
+    "id": "c12",
+    "pergunta": "Qual a melhor prevencao contra a traca da cera?",
+    "contexto": "O acaro Varroa parasita as abelhas adultas e a cria, enfraquecendo a colmeia e transmitindo virus. A traca da cera ataca favos principalmente em colmeias fracas. Manter colmeias fortes e a melhor prevencao. A pilhagem acontece quando abelhas de outras colmeias roubam o mel de uma colmeia fraca.",
+    "resposta_esperada": "manter colmeias fortes",
+    "palavras_chave": [
+      "fortes"
+    ]
+  },
+  {
+    "id": "c13",
+    "pergunta": "O que e pilhagem?",
+    "contexto": "O acaro Varroa parasita as abelhas adultas e a cria, enfraquecendo a colmeia e transmitindo virus. A traca da cera ataca favos principalmente em colmeias fracas. Manter colmeias fortes e a melhor prevencao. A pilhagem acontece quando abelhas de outras colmeias roubam o mel de uma colmeia fraca.",
+    "resposta_esperada": "abelhas de outras colmeias roubam o mel de uma colmeia fraca",
+    "palavras_chave": [
+      "roubam",
+      "fraca"
+    ]
+  },
+  {
+    "id": "c14",
+    "pergunta": "Qual o peso medio de uma melgueira cheia?",
+    "contexto": "As abelhas mantem a temperatura do ninho de cria entre 32 e 36 graus Celsius. A umidade relativa interna ideal fica entre 50% e 70%. Umidade acima de 70% favorece fungos e atrasa a maturacao do mel. Em dias frios as abelhas se agrupam e vibram os musculos para gerar calor.",
+    "resposta_esperada": null
+  },
+  {
+    "id": "c15",
+    "pergunta": "Quanto custa uma rainha fecundada?",
+    "contexto": "A rainha e a unica femea fertil da colmeia e pode por de mil a dois mil ovos por dia. A maioria dos apicultores substitui a rainha a cada um ou dois anos. Sem rainha, a populacao cai progressivamente e a producao de mel despenca. A enxameacao reduz muito a producao.",
+    "resposta_esperada": null
+  },
+  {
+    "id": "c16",
+    "pergunta": "Qual a capital da Franca?",
+    "contexto": "Em escassez de florada, a alimentacao suplementar usa xarope de acucar na proporcao de uma parte de acucar para uma de agua. Antes do inverno usa-se o xarope mais concentrado, de duas partes de acucar para uma de agua. A alimentacao artificial deve parar antes da florada para nao contaminar o mel da colheita.",
+    "resposta_esperada": null
+  },
+  {
+    "id": "c17",
+    "pergunta": "Qual o tamanho ideal da entrada da caixa?",
+    "contexto": "O acaro Varroa parasita as abelhas adultas e a cria, enfraquecendo a colmeia e transmitindo virus. A traca da cera ataca favos principalmente em colmeias fracas. Manter colmeias fortes e a melhor prevencao. A pilhagem acontece quando abelhas de outras colmeias roubam o mel de uma colmeia fraca.",
+    "resposta_esperada": null
+  }
+]
